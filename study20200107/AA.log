@@ -1,0 +1,26 @@
+2020-01-07 22:46:23,446  [WARN] hi  log4cpp.cc  warn  36
+2020-01-07 22:46:23,447  [ERROR] error  log4cpp.cc  error  44
+2020-01-07 22:51:41,750  [WARN] hi  log4cpp.cc  warn  37
+2020-01-07 22:51:41,751  [ERROR] error  log4cpp.cc  error  45
+2020-01-07 22:51:41,751  [INFO] hello  log4cpp.cc  info  59
+2020-01-07 22:51:41,751  [ERROR] debug  log4cpp.cc  debug  52
+2020-01-07 22:53:52,004  [WARN] hi  FILE:log4cpp.cc  FUNCTION:warn  LINE:37
+2020-01-07 22:53:52,004  [ERROR] error  FILE:log4cpp.cc  FUNCTION:error  LINE:45
+2020-01-07 22:53:52,004  [INFO] hello  FILE:log4cpp.cc  FUNCTION:info  LINE:59
+2020-01-07 22:53:52,005  [ERROR] debug  FILE:log4cpp.cc  FUNCTION:debug  LINE:52
+2020-01-07 22:55:09,745 mydog [WARN] hi  FILE:log4cpp.cc  FUNCTION:warn  LINE:37
+2020-01-07 22:55:09,745 mydog [ERROR] error  FILE:log4cpp.cc  FUNCTION:error  LINE:45
+2020-01-07 22:55:09,745 mydog [INFO] hello  FILE:log4cpp.cc  FUNCTION:info  LINE:59
+2020-01-07 22:55:09,745 mydog [ERROR] debug  FILE:log4cpp.cc  FUNCTION:debug  LINE:52
+2020-01-07 23:02:18,892 mydog [WARN] hi  FILE:log4cpp.cc  FUNCTION:warn  LINE:37
+2020-01-07 23:02:18,892 mydog [ERROR] error  FILE:log4cpp.cc  FUNCTION:error  LINE:45
+2020-01-07 23:02:18,892 mydog [INFO] hello  FILE:log4cpp.cc  FUNCTION:info  LINE:59
+2020-01-07 23:02:18,892 mydog [ERROR] debug  FILE:log4cpp.cc  FUNCTION:debug  LINE:52
+2020-01-07 23:02:19,966 mydog [WARN] hi  FILE:log4cpp.cc  FUNCTION:warn  LINE:37
+2020-01-07 23:02:19,967 mydog [ERROR] error  FILE:log4cpp.cc  FUNCTION:error  LINE:45
+2020-01-07 23:02:19,967 mydog [INFO] hello  FILE:log4cpp.cc  FUNCTION:info  LINE:59
+2020-01-07 23:02:19,967 mydog [ERROR] debug  FILE:log4cpp.cc  FUNCTION:debug  LINE:52
+2020-01-07 23:02:21,041 mydog [WARN] hi  FILE:log4cpp.cc  FUNCTION:warn  LINE:37
+2020-01-07 23:02:21,041 mydog [ERROR] error  FILE:log4cpp.cc  FUNCTION:error  LINE:45
+2020-01-07 23:02:21,042 mydog [INFO] hello  FILE:log4cpp.cc  FUNCTION:info  LINE:59
+2020-01-07 23:02:21,042 mydog [ERROR] debug  FILE:log4cpp.cc  FUNCTION:debug  LINE:52
